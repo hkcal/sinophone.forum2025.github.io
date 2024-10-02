@@ -8,7 +8,8 @@ Following this research tradition, we call for abstracts that challenge the simp
 We are especially interested in submissions on Hong Kong and Taiwan, which tend to be underrepresented in the global representation of the Sinophone community. Comparative works and submissions on other locales, e.g. Singapore, Malaysia and North America, are also welcome.  
 
 ## Call for Paper
-### Following [the previous workshop at the University of Sheffield](https://sites.google.com/sheffield.ac.uk/hkcaluk-workshop/home), this workshop calls for papers on these topics:  
+### Workshop on Hong Kong Cultures, Arts and Languages
+Following [the previous workshop at the University of Sheffield](https://sites.google.com/sheffield.ac.uk/hkcaluk-workshop/home), this workshop calls for papers on these topics:  
 
 **Cultures:** 
 - Production and circulation of Hong Kong culture within and beyond the Sinophone world 
@@ -29,9 +30,25 @@ We are especially interested in submissions on Hong Kong and Taiwan, which tend 
 **Diasporic Hong Kong Communities** 
 - Cultural and linguistic ties between Hong Kong and diasporic communities worldwide 
 - Experiences of migration, exile, and return in shaping Hong Kong’s global cultural identity 
-- Comparative studies of Hong Kong diasporic art and literature 
+- Comparative studies of Hong Kong diasporic art and literature
 
 **Cultural Preservation and Transformation** 
 - Preservation of traditional cultural practices in the face of globalization and political changes 
 - Reinterpreting cultural memory and heritage through contemporary art and literature 
 - Tension between modernization and the safeguarding of intangible cultural heritage 
+
+### Workshop on Taiwan
+**Arts and Culture:** 
+- Production of Taiwan culture in any form within and beyond the Sinophone world 
+- Artistic engagement with heritage 
+- Cultural production and Taiwanese identity
+ 
+**Language identity in multilingual Taiwan**
+- Multilingualism and identity in contemporary Taiwan
+- Language politics and ideology in daily life  
+- Interaction between the migrants' communities and the local Taiwanese
+ 
+**Preservation and transformation of minority cultures in Taiwan**
+- Indigenous cultures in the face of globalisation and political changes 
+- Reinterpreting cultural memory and heritage through contemporary art and literature 
+- Tension between modernisation and the safeguarding of intangible cultural heritage 
