@@ -1,5 +1,5 @@
 # Forum2025
-##Sinophone Research Forum: Island Voices on the Move 
+## Sinophone Research Forum: Island Voices on the Move 
 
 Sinophone refers to communities and cultures that share their roots in Sinitic languages and orthography. Shih Shu-mei defines the Sinophone world as a network of places where Sinitic-language cultures are produced. Given this non-monolithic definition, Sinophone communities are essentially heterogeneous and decentralized, and thus develop unique cultural identities that are distinct yet share common roots. Such a process includes the production and circulation of cultural, artistic and linguistic artefacts across different Sinophone communities. Of central importance are issues related to identity and the lived experience of marginalized populations across the globe.  
 
